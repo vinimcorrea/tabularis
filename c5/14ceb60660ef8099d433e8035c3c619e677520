@@ -1,0 +1,33 @@
+src-tauri/src/application/tunnels_tests.rs
+  s_30196314917b14::t_d7c5d45e8d89cb 241-292
+src-tauri/src/plugins/driver.rs
+  s_30196314917b14::t_06a8fc75ac4d24 2565-2566
+src-tauri/src/lib.rs
+  s_30196314917b14::t_944147bc9343f4 111
+src-tauri/src/ssh_tunnel.rs
+  s_30196314917b14::t_c1de890dcd6459 78-87,158-220,249,268,291,311,323,494,618,620-640,644-645,653-663,669-680,1190-1207,1318-1351
+src-tauri/src/ssh_socks5/tests.rs
+  s_30196314917b14::t_6517d10288773f 1-145
+src-tauri/src/ssh_socks5.rs
+  s_30196314917b14::t_8db59465d922c4 1-137
+src-tauri/src/application/tunnels.rs
+  s_30196314917b14::t_8e09834fb24fb7 593-596,603-607,621,644-672,683-701,703-710
+src-tauri/src/models.rs
+  s_30196314917b14::t_6bf7be6f54f37e 327-334
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "c514ceb60660ef8099d433e8035c3c619e677520",
+  "prompts": {},
+  "sessions": {
+    "s_30196314917b14": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_e4f4129f7ffemOM1FTZ77UYGiX",
+        "model": "claude-sonnet-5.5"
+      },
+      "human_author": "Vinicius Correa <viniciusmc@inditex.com>"
+    }
+  }
+}
