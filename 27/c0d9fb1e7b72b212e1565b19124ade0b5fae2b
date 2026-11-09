@@ -1,0 +1,27 @@
+packages/web-ui/src/components/ui/DocumentView.tsx
+  s_30196314917b14::t_9f0df7c13643b7 13-17,29,36-49,51-58,64,71,73,83-94,96,100,102-104,112-113,120,128,133-140,153,156,180,189
+packages/web-ui/src/pages/Editor.tsx
+  s_30196314917b14::t_b9ef770fbe811c 176,638-651,6569
+packages/web-ui/src/utils/extendedJson.ts
+  s_30196314917b14::t_2b6acc4116139a 1-147
+packages/web-ui/tests/components/ui/DocumentView.test.tsx
+  s_30196314917b14::t_93ebaa9887f4ce 71-104
+packages/web-ui/tests/utils/extendedJson.test.ts
+  s_30196314917b14::t_5785e48ab3aac6 1-122
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "27c0d9fb1e7b72b212e1565b19124ade0b5fae2b",
+  "prompts": {},
+  "sessions": {
+    "s_30196314917b14": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_e4f4129f7ffemOM1FTZ77UYGiX",
+        "model": "claude-sonnet-5.5"
+      },
+      "human_author": "Vinicius Correa <73285619+vinimcorrea@users.noreply.github.com>"
+    }
+  }
+}
