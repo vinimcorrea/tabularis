@@ -1,0 +1,23 @@
+packages/web-ui/src/components/ui/TableToolbar.tsx
+  s_30196314917b14::t_3808e13b89b054 33-37,80,111-116,158,161,183,194,222,241,285,300,306,362,436,517,535,561-562,587,614-618,685,710-714
+packages/web-ui/src/pages/Editor.tsx
+  s_30196314917b14::t_11a5b95236f0aa 5857
+packages/web-ui/tests/components/ui/TableToolbar.test.tsx
+  s_30196314917b14::t_c60d52201b9541 203-269
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "bcf74bc02e947f8c5cd8c4833d7b7f451caae4c7",
+  "prompts": {},
+  "sessions": {
+    "s_30196314917b14": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_e4f4129f7ffemOM1FTZ77UYGiX",
+        "model": "claude-sonnet-5.5"
+      },
+      "human_author": "Vinicius Correa <73285619+vinimcorrea@users.noreply.github.com>"
+    }
+  }
+}

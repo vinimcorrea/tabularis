@@ -1,0 +1,65 @@
+packages/web-ui/src/components/ui/DocumentView.tsx
+  s_30196314917b14::t_48e35b0267a676 1-160
+packages/web-ui/src/components/ui/ResultViewToggle.tsx
+  s_30196314917b14::t_ba5a0dc2d7ebbc 3,10-11,17-21,29-37,48-77
+packages/web-ui/src/hooks/useResultChartState.ts
+  s_30196314917b14::t_83681f5b118c99 5-7,12,18,28,54-56,58,74
+packages/web-ui/src/i18n/locales/de.json
+  s_30196314917b14::t_ecb05222dcec6d 2094,3050-3057
+packages/web-ui/src/i18n/locales/en.json
+  s_30196314917b14::t_a255074acbf75c 2165,3186-3193
+packages/web-ui/src/i18n/locales/es.json
+  s_30196314917b14::t_0419746d221f9c 2067,2984-2991
+packages/web-ui/src/i18n/locales/fr.json
+  s_30196314917b14::t_d5d7ffe373cff8 2134,3129-3136
+packages/web-ui/src/i18n/locales/it.json
+  s_30196314917b14::t_6d41831dcf7e3c 2154,3083-3090
+packages/web-ui/src/i18n/locales/ja.json
+  s_30196314917b14::t_21fe402aa5191f 2105,3071-3078
+packages/web-ui/src/i18n/locales/ko.json
+  s_30196314917b14::t_4f8057a2459b73 2069,3006-3013
+packages/web-ui/src/i18n/locales/pt-BR.json
+  s_30196314917b14::t_053eed8c4e2add 2112,3107-3114
+packages/web-ui/src/i18n/locales/ru.json
+  s_30196314917b14::t_c7b14fea8252cc 2117,3091-3098
+packages/web-ui/src/i18n/locales/tl.json
+  s_30196314917b14::t_31554219e49aa9 2125,3072-3079
+packages/web-ui/src/i18n/locales/vi.json
+  s_30196314917b14::t_3a3ebc867b7c8d 2145,3134-3141
+packages/web-ui/src/i18n/locales/zh-TW.json
+  s_30196314917b14::t_2089cbfa989cfc 2138,3209-3217
+packages/web-ui/src/i18n/locales/zh.json
+  s_30196314917b14::t_ed3ead33338c9c 2059,2992-2999
+packages/web-ui/src/pages/Editor.tsx
+  s_30196314917b14::t_812c52028b17c7 131,175-176,636-649,651-653,1076,6139,6156,6181,6183-6184,6337,6362,6366,6433,6544-6550
+packages/web-ui/src/utils/documentView.ts
+  s_30196314917b14::t_0de4beae9a1757 1-61
+packages/web-ui/src/utils/resultChart.ts
+  s_30196314917b14::t_d223b374373bba 4
+packages/web-ui/tests/components/ui/DocumentView.test.tsx
+  s_30196314917b14::t_42587ae2064c7d 1-101
+packages/web-ui/tests/components/ui/ResultViewToggle.test.tsx
+  s_30196314917b14::t_06e2c4f5ca3d41 24-42
+packages/web-ui/tests/hooks/useResultChartState.test.ts
+  s_30196314917b14::t_bf434bd49772ab 27-46
+packages/web-ui/tests/setup.ts
+  s_30196314917b14::t_85393281f86e1e 164
+packages/web-ui/tests/utils/documentView.test.ts
+  s_30196314917b14::t_309d63f48a8416 1-116
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "0c690c8156798b3ce552b65cd33121a504f7f98c",
+  "prompts": {},
+  "sessions": {
+    "s_30196314917b14": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_e4f4129f7ffemOM1FTZ77UYGiX",
+        "model": "claude-sonnet-5.5"
+      },
+      "human_author": "Vinicius Correa <73285619+vinimcorrea@users.noreply.github.com>"
+    }
+  }
+}

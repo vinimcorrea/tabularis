@@ -1,0 +1,87 @@
+src-tauri/src/lib.rs
+  s_30196314917b14::t_944147bc9343f4 112
+plugins/PLUGIN_GUIDE.md
+  s_e5ee997070bac4::t_ef4f7e06c867aa 177,903-926
+src-tauri/src/application/tunnels_tests.rs
+  s_30196314917b14::t_d7c5d45e8d89cb 241-251,294-297,300-307,311-316,318-319,339-344,524
+  s_e5ee997070bac4::t_09527632ab2dd1 252-293,298-299,308-310,317,320-338,345-523
+src-tauri/src/drivers/registry.rs
+  h_4635714518fa69 34-57,72,113
+src-tauri/src/ssh_socks5/tests.rs
+  s_30196314917b14::t_6517d10288773f 1-9,11-18,43-46,48-60,62-65,67-76,78-87,91-95,97-99,102,104-106,164-173,175-179,182-185,187-191,193-196,198-202,204-207,209-225
+  s_e5ee997070bac4::t_29fa1deeb9e32a 10,19-42,47,61,66,77,88-90,96,100-101,103,107-163,174,180-181,186,192,197,203,208
+src-tauri/src/drivers/driver_trait.rs
+  h_4635714518fa69 109-121
+src-tauri/tests/postgres_integration/parity.rs
+  s_e5ee997070bac4::t_3b5deed0a7f668 286
+plugins/manifest.schema.json
+  s_e5ee997070bac4::t_6cfbf9a3f8b256 138-142
+src-tauri/src/plugins/driver.rs
+  s_30196314917b14::t_06a8fc75ac4d24 2696-2697
+  s_e5ee997070bac4::t_9f02b645e8669d 2698-2699
+src-tauri/src/ssh_socks5.rs
+  s_30196314917b14::t_8db59465d922c4 1-2,7-10,12,16-30,77-98,106-118,120-121,123-124,129-157,159-178,213-225
+  s_e5ee997070bac4::t_bc72ff58e92837 3-6,11,13-15,31-76,99-105,119,122,125-128,158,179-212
+src-tauri/src/drivers/postgres/mod.rs
+  s_e5ee997070bac4::t_45b017f6361690 2334
+src-tauri/src/application/tunnels.rs
+  s_30196314917b14::t_8e09834fb24fb7 661,669,684-685,703-704,722-723,727-728,730-731,733,735,739-740,742-744
+  s_e5ee997070bac4::t_0b95048d61a76a 745
+  s_e5ee997070bac4::t_ed39cfdc3f3e76 543-544,595-618,636,638,678-683,686-702,705-721,724-726,729,734,736-738,741,746-761
+src-tauri/src/models.rs
+  s_30196314917b14::t_6bf7be6f54f37e 324,329-332
+  s_e5ee997070bac4::t_356e88b627d4a2 325-328,333-338
+src-tauri/src/drivers/sqlite/mod.rs
+  s_e5ee997070bac4::t_d51bf04c82abc5 1078
+src-tauri/src/drivers/registry/tests.rs
+  h_4635714518fa69 160-172
+src-tauri/src/ssh_tunnel.rs
+  s_30196314917b14::t_c1de890dcd6459 81-90,165-199,228,247,270,290,302,475,604,607-608,627,629,632-642,645-646,654-664,670-681,1229-1246,1355-1377,1394-1404
+  h_4635714518fa69 628
+  s_2f8b359a594145::t_03e61b09a3358f 25-28,94-97,303,463,505-507,524,568-571,580,605,609-626,630-631,703,740-755,1208-1228,1286,1312,1378-1393
+src-tauri/src/drivers/mysql/mod.rs
+  s_e5ee997070bac4::t_8098c8fe3ddeaf 2025
+packages/web-ui/src/types/plugins.ts
+  s_e5ee997070bac4::t_7ce4a7ee315fa7 52-58
+src-tauri/src/application/connections.rs
+  h_4635714518fa69 1643,1716-1724
+src-tauri/src/application/connections_tests.rs
+  h_4635714518fa69 261-277
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "873c5c14162a9f45dfb14dc3c55f0a6a94c18ffc",
+  "prompts": {},
+  "humans": {
+    "h_4635714518fa69": {
+      "author": "Vinicius Correa <73285619+vinimcorrea@users.noreply.github.com>"
+    }
+  },
+  "sessions": {
+    "s_2f8b359a594145": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_e3b7304e5ffe07D4w1f6aDgS0W",
+        "model": "claude-sonnet-5.5"
+      },
+      "human_author": "Vinicius Correa <73285619+vinimcorrea@users.noreply.github.com>"
+    },
+    "s_30196314917b14": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_e4f4129f7ffemOM1FTZ77UYGiX",
+        "model": "claude-sonnet-5.5"
+      },
+      "human_author": "Vinicius Correa <viniciusmc@inditex.com>"
+    },
+    "s_e5ee997070bac4": {
+      "agent_id": {
+        "tool": "github-copilot-cli",
+        "id": "75c441e0-ba3b-498d-8573-ba7e8cf55eec",
+        "model": "claude-opus-5.5"
+      },
+      "human_author": "Vinicius Correa <73285619+vinimcorrea@users.noreply.github.com>"
+    }
+  }
+}
