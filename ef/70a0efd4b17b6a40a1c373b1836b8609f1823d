@@ -1,0 +1,21 @@
+src-tauri/src/drivers/registry.rs
+  s_e5ee997070bac4::t_824036f1fdfc74 71-74,76-77,114-115
+src-tauri/src/drivers/registry/tests.rs
+  s_e5ee997070bac4::t_5bbc3bd0a1d432 173-205
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "ef70a0efd4b17b6a40a1c373b1836b8609f1823d",
+  "prompts": {},
+  "sessions": {
+    "s_e5ee997070bac4": {
+      "agent_id": {
+        "tool": "github-copilot-cli",
+        "id": "75c441e0-ba3b-498d-8573-ba7e8cf55eec",
+        "model": "claude-opus-5.5"
+      },
+      "human_author": "Vinicius Correa <73285619+vinimcorrea@users.noreply.github.com>"
+    }
+  }
+}
